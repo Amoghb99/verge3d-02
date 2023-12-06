@@ -50,10 +50,9 @@
       </statement>
     </block>
   </tab>
-  <tab name="main" type="MainTab" active="true" scrollx="3398.7587847867835" scrolly="1672.8845283659489" scale="0.6548623765145809">
+  <tab name="main" type="MainTab" active="true" scrollx="3977.9587054410804" scrolly="1454.7835220453144" scale="0.6548623765145809">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="@[-6N#MsLKU}w=BI;eyX" type="">score</variable>
-      <variable id=";f5h#,kblZpkWdks(Uvm" type="">counter_question</variable>
       <variable id="KwMBc}[7lIpDpiR-90W}" type="">all_buttons</variable>
       <variable id="4_Ts%~5qgN[D-eD7`C/~" type="">animated_objects</variable>
       <variable id="EuJ1tL/s:ton5JW|V}`4" type="">nozzle_dop_limit</variable>
@@ -62,6 +61,7 @@
       <variable id="`TD46+w=Lw|E^--Kxc%i" type="">interface_color</variable>
       <variable id=".RFkx)%(OM=,?=*#HzAC" type="">transparent_color</variable>
       <variable id="R-yl^E[kWkA-A{DD{eUM" type="">clicked</variable>
+      <variable id=";f5h#,kblZpkWdks(Uvm" type="">counter_question</variable>
       <variable id="guzmBY[1fz`J03f/I_^k" type="">question</variable>
       <variable id="s@vKFLpK$wp_e-?{}a=c" type="">manipulators_list</variable>
       <variable id="-9*E8BUw94be*/H(WS%2" type="">mode_type</variable>
@@ -719,7 +719,7 @@
                                                   <field name="PARENT">FALSE</field>
                                                   <value name="VALUE">
                                                     <block type="text" id="_:cICl%y7iivfR|5*:Vr">
-                                                      <field name="TEXT">45%</field>
+                                                      <field name="TEXT">35%</field>
                                                     </block>
                                                   </value>
                                                   <value name="ID">
@@ -1274,7 +1274,7 @@
                                                       <field name="PARENT">FALSE</field>
                                                       <value name="VALUE">
                                                         <block type="text" id="(#KXYjVB~WYjrW?[)NRu">
-                                                          <field name="TEXT">45%</field>
+                                                          <field name="TEXT">35%</field>
                                                         </block>
                                                       </value>
                                                       <value name="ID">
@@ -1829,7 +1829,7 @@
                                                           <field name="PARENT">FALSE</field>
                                                           <value name="VALUE">
                                                             <block type="text" id="-:i~2=Q;.y^HaviQ.bIB">
-                                                              <field name="TEXT">45%</field>
+                                                              <field name="TEXT">35%</field>
                                                             </block>
                                                           </value>
                                                           <value name="ID">
@@ -2384,7 +2384,7 @@
                                                               <field name="PARENT">FALSE</field>
                                                               <value name="VALUE">
                                                                 <block type="text" id="lK+E-YGHzM@hHO{yMqrm">
-                                                                  <field name="TEXT">45%</field>
+                                                                  <field name="TEXT">35%</field>
                                                                 </block>
                                                               </value>
                                                               <value name="ID">
@@ -2939,7 +2939,7 @@
                                                                   <field name="PARENT">FALSE</field>
                                                                   <value name="VALUE">
                                                                     <block type="text" id="_@MXje*8~*,$Joz:-wl,">
-                                                                      <field name="TEXT">45%</field>
+                                                                      <field name="TEXT">35%</field>
                                                                     </block>
                                                                   </value>
                                                                   <value name="ID">
@@ -3494,7 +3494,7 @@
                                                                       <field name="PARENT">FALSE</field>
                                                                       <value name="VALUE">
                                                                         <block type="text" id="3HGdaG%s6zlVn6OFQp2T">
-                                                                          <field name="TEXT">45%</field>
+                                                                          <field name="TEXT">35%</field>
                                                                         </block>
                                                                       </value>
                                                                       <value name="ID">
@@ -4059,7 +4059,7 @@
                                                                           <field name="PARENT">FALSE</field>
                                                                           <value name="VALUE">
                                                                             <block type="text" id="a%ZtMd;tq;se[577DM39">
-                                                                              <field name="TEXT">45%</field>
+                                                                              <field name="TEXT">35%</field>
                                                                             </block>
                                                                           </value>
                                                                           <value name="ID">
@@ -4624,7 +4624,7 @@
                                                                               <field name="PARENT">FALSE</field>
                                                                               <value name="VALUE">
                                                                                 <block type="text" id="S0(k!l|Q7|*jG$a?x|ja">
-                                                                                  <field name="TEXT">45%</field>
+                                                                                  <field name="TEXT">35%</field>
                                                                                 </block>
                                                                               </value>
                                                                               <value name="ID">
@@ -5107,7 +5107,7 @@
         </block>
       </next>
     </block>
-    <block xmlns="https://developers.google.com/blockly/xml" type="eventHTMLElem" id="$S@j~?;n=o%?l%M(Zk;{" x="-4730" y="-2050">
+    <block xmlns="https://developers.google.com/blockly/xml" type="eventHTMLElem" id="$S@j~?;n=o%?l%M(Zk;{" x="-4800" y="-2039">
       <field name="EVENT">click</field>
       <field name="PARENT">FALSE</field>
       <value name="ID">
@@ -5765,7 +5765,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id=";YH|P^rL@SUW`06sncxU">
+                    <shadow type="math_number" id="h%%Egq@1]a`tN8oYO#U%">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="Kj%e+B4?O$TVO|U^hV4?">
@@ -5857,7 +5857,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="(3CW_vxQuk5L3h5TB{xB">
+                    <shadow type="math_number" id="E9$N7EvQY98vprTKr{sK">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="nSooM+VGC?3rGpgFOTMN">
@@ -5949,7 +5949,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="A8iQ=?@[$H=uhct9|h9)">
+                    <shadow type="math_number" id="Z2[W/sq!3WH-=xiJ{Gaz">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="ZE.C?;;+*QH%l;QGCcCN">
@@ -6041,7 +6041,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="a8ag[~pq(*O(~*0$B9m:">
+                    <shadow type="math_number" id="M:=K?ec:i$}e%^x8Jm~h">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="BtwmP~ZtuwR$bAwv^-ZJ">
@@ -6133,7 +6133,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="sm^l9ss#IE!jP|[a1DEn">
+                    <shadow type="math_number" id="c:m@zy#mhJ741/~]dGFr">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="|Ju$5R;Gpm232urZH/b?">
@@ -6225,7 +6225,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="e?Fr`NMGMds_0O-T{,Au">
+                    <shadow type="math_number" id="@+X*s_iFmH@1v.=si/lP">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="uaRHm9f4G:8YN%~GV2.`">
@@ -6317,7 +6317,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="`(G@BN[9Y=]xZoJA!FD$">
+                    <shadow type="math_number" id="!52@YfC^l]F$MBsg`nZe">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="y$uBhPY7cHHH4z[/WzA*">
@@ -6409,7 +6409,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="L]}AMb;nTqtYR`0mCN_Y">
+                    <shadow type="math_number" id="]sr=**hTkk+0{p45e2?K">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="zdf%27%,^$H=!7vo+shM">
@@ -6501,7 +6501,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="+E7LvBGZ/e-E+-f.u[a=">
+                    <shadow type="math_number" id="uKQA5@gfV?wh3E?^a{Aa">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="7W~um/)V~fDQd(du1kYB">
@@ -6593,7 +6593,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="e09K?NUyi7_XTnm38u8,">
+                    <shadow type="math_number" id="i14)]7asy9@IVH|2p4xZ">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id=")xv5NqwfYKzf)#L={Mc`">
@@ -6685,7 +6685,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="(%^,6tP:0pO6h)lGvT:C">
+                    <shadow type="math_number" id="$4S,3EH9p|0St[SY!6|V">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="PYKko64mv,BQrYX}tFir">
@@ -6777,7 +6777,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="W:Y*1u_]cl!r]5#Nr_I}">
+                    <shadow type="math_number" id="bNQsuex5+J/J$831MYvH">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="!xRu~wQU;bCQ6#UQqvJ4">
@@ -6869,7 +6869,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="D5y1Ccmw|NEDn614N433">
+                    <shadow type="math_number" id="~1fOWwG`r7CT_N,Nt1br">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="c-gz:=~ni(C]u4f+;z4(">
@@ -6961,7 +6961,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="(v~HLBY4WE-n2vhlVo-c">
+                    <shadow type="math_number" id="@CP:N{~|+I.lI^)={?-W">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="^TEq@K#lmoJfwDG{vbqk">
@@ -7053,7 +7053,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id=":a9MJyvrhOg@V_T`Q]2g">
+                    <shadow type="math_number" id="o$oe-o,?@Q~%j?tR@~=j">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="%7okiC0b=b#%d64[L6a7">
@@ -7145,7 +7145,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="CGy3$uQHg:fu!_9kYx$y">
+                    <shadow type="math_number" id="Xss?dZvt5m_BwQX5A|yX">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="w!DkG::8C(C@^rj55)NB">
@@ -7250,7 +7250,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="SePhuQf1#`)Y=tU4a+[m">
+                    <shadow type="math_number" id="%{anF$+4%t$w38`[Kzr^">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="Aju(uB.#EUsA%fZFNFf3">
@@ -7328,7 +7328,7 @@
                     </shadow>
                   </value>
                   <value name="MAX">
-                    <shadow type="math_number" id="b1B(JVj)=ThCr=}#$I0h">
+                    <shadow type="math_number" id="E7a_PAPYfg#YL?zt-?)Y">
                       <field name="NUM">1</field>
                     </shadow>
                     <block type="math_arithmetic" id="|jPCAI}@0f-P%6pGr_nT">
